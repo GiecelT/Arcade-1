@@ -1,0 +1,26 @@
+body {
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive; 
+  text-align: center;
+  margin: 20px;
+  background-color: #2c003e;
+  color: #00ffcc; 
+}
+
+p {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  padding: 10px;
+  color: #00ffcc; 
+}
+
+button {
+  background-color: #000000; 
+  color: #00ffcc; 
+  font-size: 1em;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 5px;
+  border: 2px solid #2c003e; 
+}
